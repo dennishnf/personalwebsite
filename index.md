@@ -75,7 +75,7 @@ As well, I have presented some of my research projects in several workshops at t
 <h2>News and updates</h2>
 <p>
 <ul>
-<li>2024 Nov - Invited by the IEEE SPS @ Univ. Nacional San Marcos (Peru) to talk on the potential of ML in Medicine.</li>
+<li>2024 Nov - Invited by the IEEE SPS @ Univ. Nacional San Marcos (Peru) to talk about ML in Medicine.</li>
 <li>2024 Oct - Glad to be teaching in the postgraduate program on AI applied to Healthcare at UPCH (Peru).</li>
 <li>2024 Oct - Invited by CCPP @ Univ. Nacional de Ingeniería (UNI), Peru, to give a talk on ML in Healthcare.</li>
 <li>2024 Oct - <a href="https://www.latinxinai.org/neurips-2024" target="_blank">Selected as a paper reviewer for the LatinX in AI Research Workshop at the NeurIPS 2024</a>.</li>
