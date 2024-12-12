@@ -75,6 +75,7 @@ As well, I have presented some of my research projects in several workshops at t
 <h2>News and updates</h2>
 <p>
 <ul>
+<li>2024 Dec - <a href="https://icml.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the ICML 2025 main conference</a>.</li>
 <li>2024 Nov - Invited by the IEEE SPS @ Univ. Nacional San Marcos (Peru) to talk about ML in Medicine.</li>
 <li>2024 Oct - Glad to be teaching in the postgraduate program on AI applied to Healthcare at UPCH (Peru).</li>
 <li>2024 Oct - Invited by CCPP @ Univ. Nacional de Ingeniería (UNI), Peru, to give a talk on ML in Healthcare.</li>
