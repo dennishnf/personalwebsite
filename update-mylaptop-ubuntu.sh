@@ -4,7 +4,7 @@
 git pull;
 
 #create html files
-python md2html.py "/home/dennishnf/Desktop/dennishnf.github.io"
+python md2html.py "/home/dennishnf/Desktop/personalwebsite"
 
 #upload
 git add -A;
