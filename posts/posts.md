@@ -73,7 +73,7 @@
 </ul>
 <!-- ----------------------------------------------------------------------------------------------- -->
 <!-- ----------------------------------------------------------------------------------------------- -->
-<h3>Other Posts</h3>
+<h3>Other posts</h3>
 <ul>
 <li>2021 Apr - <a href="/posts/daily/2021-04_how-i-started-in-research-development-in-ai-ml/page.html">How I started in research and development in AI/ML</a></li>
 <li>2024 Jan - <a href="/posts/daily/2021-01_mentions-in-the-press-and-the-media/page.html">Mentions in the press and in the media</a></li>
