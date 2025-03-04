@@ -75,14 +75,14 @@
 <!-- ----------------------------------------------------------------------------------------------- -->
 <h3>Other posts</h3>
 <ul>
-<li>2021 Apr - <a href="/posts/daily/2021-04_how-i-started-in-research-development-in-ai-ml/page.html">How I started in research and development in AI/ML</a></li>
-<li>2024 Jan - <a href="/posts/daily/2021-01_mentions-in-the-press-and-the-media/page.html">Mentions in the press and in the media</a></li>
-<!-- <li>2020 Dec - <a href="/posts/daily/2020-12_some-of-my-attempts-of-sketching-and-drawing/page.html">Some of my attempts of sketching and drawing</a></li> -->
-<!-- <li>2019 Jun - <a href="/posts/articles/short-history-a-specie-called-humans-against-natural-evolution/page.html">Short history: A specie called Humans against natural evolution</a></li> -->
-<li>2019 Jun - <a href="/posts/articles/2019-06_human-being-and-their-vulnerable-existence/page.html">The human being and their vulnerable existence</a></li>
-<li>2019 Jun - <a href="/posts/articles/2019-06_the-importance-of-education-in-the-world/page.html">The importance of Education in the World</a></li>
-<li>2019 Jun - <a href="/posts/articles/2019-06_future-of-human-machine-interaction/page.html">How could be the future of Human-Machine interaction?</a></li>
-<li>2019 Jun - <a href="/posts/articles/2019-06_can-ai-destroy-the-humans/page.html">Can AI destroy the humans?</a></li>
+<li>2021 Apr - <a href="/posts/others/2021-04_how-i-started-in-research-development-in-ai-ml/page.html">How I started in research and development in AI/ML</a></li>
+<li>2024 Jan - <a href="/posts/others/2021-01_mentions-in-the-press-and-the-media/page.html">Mentions in the press and in the media</a></li>
+<!-- <li>2020 Dec - <a href="/posts/others/2020-12_some-of-my-attempts-of-sketching-and-drawing/page.html">Some of my attempts of sketching and drawing</a></li> -->
+<!-- <li>2019 Jun - <a href="/posts/others/short-history-a-specie-called-humans-against-natural-evolution/page.html">Short history: A specie called Humans against natural evolution</a></li> -->
+<li>2019 Jun - <a href="/posts/others/2019-06_human-being-and-their-vulnerable-existence/page.html">The human being and their vulnerable existence</a></li>
+<li>2019 Jun - <a href="/posts/others/2019-06_the-importance-of-education-in-the-world/page.html">The importance of Education in the World</a></li>
+<li>2019 Jun - <a href="/posts/others/2019-06_future-of-human-machine-interaction/page.html">How could be the future of Human-Machine interaction?</a></li>
+<li>2019 Jun - <a href="/posts/others/2019-06_can-ai-destroy-the-humans/page.html">Can AI destroy the humans?</a></li>
 </ul>
 <!-- ----------------------------------------------------------------------------------------------- -->
 <!-- ----------------------------------------------------------------------------------------------- -->
