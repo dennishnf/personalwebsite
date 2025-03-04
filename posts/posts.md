@@ -2,16 +2,6 @@
 <br/>
 <!-- ----------------------------------------------------------------------------------------------- -->
 <!-- ----------------------------------------------------------------------------------------------- -->
-<h3>Useful resources and info</h3>
-<ul>
-<li>2020 Apr - <a href="/posts/information/2020-04_artificial-intelligence/page.html">AI, ML, Computer Vision</a></li>
-<li>2019 Nov - <a href="/posts/information/2019-11_algorithms/page.html">Algorithms, Data Structures</a></li>
-<li>2019 Oct - <a href="/posts/information/2019-10_computer-architecture/page.html">Computer Architecture</a></li>
-<li>2019 Ago - <a href="/posts/information/2019-08_cryptography/page.html">Cryptography, Cyber Security</a></li>
-<li>2019 Jan - <a href="/posts/information/2019-01_others/page.html">Miscellaneous links</a></li>
-</ul>
-<!-- ----------------------------------------------------------------------------------------------- -->
-<!-- ----------------------------------------------------------------------------------------------- -->
 <h3>Part of my past projects</h3>
 <ul>
 <li>2018 Sep - <a href="/posts/projects/2018-09_basic-wifi-based-indoor-location-via-bayesian-filters/page.html">Basic WiFi-based indoor location via Bayesian filters</a></li>
