@@ -144,7 +144,7 @@ def convert(pathh):
     #replace(path_out, ' \*\*', ' <strong>')
     #replace(path_out, '\*\*', '</strong>')
 
-    replace(path_out, '\!\[image\]\(', '\n<center><img src=\"https://dennishnf.github.io')
+    replace(path_out, '\!\[image\]\(', '\n<center><img src=\"https://dennishnf.net')
     replace(path_out, '.png\){', '.png\" style=\"padding-top:8px; padding-bottom: 8px;\"  width=\"')
     replace(path_out, '}!', '\"/></center>\n')
     replace(path_out, '.jpg\){', '.png\" style=\"padding-top:8px; padding-bottom: 8px;\"  width=\"')
@@ -164,7 +164,7 @@ def convert(pathh):
     replace(path_out, '\!\[video\]\(', '\n<center style=\"padding-bottom: 8px; padding-top: 8px;\" ><video controls><source src=\"https://dennishnf.github.io')
     replace(path_out, '.mp4\)', '.mp4\" type=\"video/mp4\"> Your browser does not support the video tag.</video></center>\n')
 
-    #replace(path_out, '$mywebsite$', 'https://dennishnf.netx')
+    replace(path_out, '$mywebsite$', 'https://dennishnf.netx')
 
     replace(path_out, '\[htt', '<a target=\"_blank\" href=\"htt')
     replace(path_out, '\]\(', '\">')
