@@ -164,15 +164,14 @@ def convert(pathh):
     replace(path_out, '\!\[video\]\(', '\n<center style=\"padding-bottom: 8px; padding-top: 8px;\" ><video controls><source src=\"https://dennishnf.github.io')
     replace(path_out, '.mp4\)', '.mp4\" type=\"video/mp4\"> Your browser does not support the video tag.</video></center>\n')
 
-    replace(path_out, 'myW3B', 'https://dennishnf.net')
-
     replace(path_out, '\[htt', '<a target=\"_blank\" href=\"htt')
     replace(path_out, '\]\(', '\">')
     replace(path_out, '\)!', '</a>')
 
-    #replace(path_out, 'https://dennishnf.github.io/website/', 'https://dennishnf.github.io/')
 
-    #replace(path_out, '$mywebsite$', 'https://dennishnf.net')
+    replace(path_out, 'myW3B', 'https://dennishnf.net')
+
+    #replace(path_out, 'https://dennishnf.github.io/website/', 'https://dennishnf.github.io/')
 
     ##replace(path_out, 'xxxx', 'xxxx')
 
