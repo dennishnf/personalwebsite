@@ -160,8 +160,8 @@ def convert(pathh):
     replace(path_out, '.gif\)', '.gif\" style=\"padding-top:8px; padding-bottom: 8px;\" /></center>\n')
 
     replace(path_out, '\!{', '\n<center style=\"padding-bottom: 8px; padding-top: 8px;\" ><video width=\"')
-    replace(path_out, '}\[video\]\(', '\" controls><source src=\"https://dennishnf.github.io')
-    replace(path_out, '\!\[video\]\(', '\n<center style=\"padding-bottom: 8px; padding-top: 8px;\" ><video controls><source src=\"https://dennishnf.github.io')
+    replace(path_out, '}\[video\]\(', '\" controls><source src=\"')
+    replace(path_out, '\!\[video\]\(', '\n<center style=\"padding-bottom: 8px; padding-top: 8px;\" ><video controls><source src=\"')
     replace(path_out, '.mp4\)', '.mp4\" type=\"video/mp4\"> Your browser does not support the video tag.</video></center>\n')
 
     replace(path_out, '\[htt', '<a target=\"_blank\" href=\"htt')
