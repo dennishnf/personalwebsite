@@ -1,4 +1,4 @@
-"$mywebsite$
+$mywebsite$
 <h2>Gallery</h2>
 <br/>
 <p> 
