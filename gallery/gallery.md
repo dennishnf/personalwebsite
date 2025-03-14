@@ -1,4 +1,4 @@
-$mywebsite$
+mywebxXX
 <h2>Gallery</h2>
 <br/>
 <p> 
