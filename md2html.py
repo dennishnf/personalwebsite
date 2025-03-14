@@ -170,7 +170,7 @@ def convert(pathh):
     replace(path_out, '\]\(', '\">')
     replace(path_out, '\)!', '</a>')
 
-    replace(path_out, 'https://dennishnf.github.io/website/', 'https://dennishnf.github.io/')
+    #replace(path_out, 'https://dennishnf.github.io/website/', 'https://dennishnf.github.io/')
 
     #replace(path_out, '$mywebsite$', 'https://dennishnf.net')
 
@@ -203,10 +203,10 @@ def convert(pathh):
               output.write(data)
     
     with open(path_out, "a") as myfile:
-        timee=strftime("&nbsp;%Y-%m-%d&nbsp;%H:%M", gmtime())
+        timeInfo=strftime("&nbsp;%Y-%m-%d&nbsp;%H:%M", gmtime())
         myfile.write("<a href=\"https://dennishnf.com/README.html\" target=\"_blank\">Built using Python. Powered by Linux.</a> <br/>\n")
         myfile.write("Last updated:")
-        myfile.write(timee)
+        myfile.write(timeInfo)
         myfile.write(" GMT <br/> \n</div> \n")
         myfile.write("<div class=\"clearer\">&nbsp;</div> \n")
         myfile.write("</div> \n")
