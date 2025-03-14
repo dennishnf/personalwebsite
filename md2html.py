@@ -144,7 +144,7 @@ def convert(pathh):
     #replace(path_out, ' \*\*', ' <strong>')
     #replace(path_out, '\*\*', '</strong>')
 
-    replace(path_out, '\!\[image\]\(', '\n<center><img src=\"https://dennishnf.net')
+    replace(path_out, '\!\[image\]\(', '\n<center><img src=\"')
     replace(path_out, '.png\){', '.png\" style=\"padding-top:8px; padding-bottom: 8px;\"  width=\"')
     replace(path_out, '}!', '\"/></center>\n')
     replace(path_out, '.jpg\){', '.png\" style=\"padding-top:8px; padding-bottom: 8px;\"  width=\"')
@@ -169,7 +169,7 @@ def convert(pathh):
     replace(path_out, '\)!', '</a>')
 
 
-    replace(path_out, 'myW3B', 'https://dennishnf.net')
+    #replace(path_out, 'myW3B', 'https://dennishnf.net')
 
     #replace(path_out, 'https://dennishnf.github.io/website/', 'https://dennishnf.github.io/')
 
