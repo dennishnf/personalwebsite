@@ -236,10 +236,10 @@ timeInfoo=strftime("%Y-%m-%d %H:%M", gmtime())
 root = sys.argv[1]
 
 
-#if plataform_ == 'Linux':
+#if deviceName == 'Linux':
 #    root = r"/home/dennishnf/Desktop/dennishnf.github.io"
 
-#if plataform_ == 'Windows':
+#if deviceName == 'Windows':
 #    root = r"C:\Users\Dennis\Desktop\dennishnf.github.io"
 
 pattern = "*.md"
@@ -253,7 +253,7 @@ for path, subdirs, files in os.walk(root):
             
 
 
-print("\nExecuted in "+deviceName+"\n"+timeInfoo+"\n___")
+print("\nExecuted in "+deviceName+"\n"+timeInfoo+" GMT"+"\n___")
 
 
 
