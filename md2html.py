@@ -230,7 +230,7 @@ def convert(pathh):
 
 
 
-plataform_ = platform.system()
+deviceName = platform.system()
 
 
 root = sys.argv[1]
@@ -253,7 +253,7 @@ for path, subdirs, files in os.walk(root):
             
 
 
-print("Executed in "+plataform_)
+print("\nExecuted in "+deviceName+"\n")
 
 
 
