@@ -230,6 +230,7 @@ def convert(pathh):
 
 
 deviceName = platform.system()
+timeInfoo=strftime("&nbsp;%Y-%m-%d&nbsp;%H:%M", gmtime())
 
 
 root = sys.argv[1]
@@ -252,7 +253,7 @@ for path, subdirs, files in os.walk(root):
             
 
 
-print("\nExecuted in "+deviceName+"\n___")
+print("\nExecuted in "+deviceName+timeInfoo+"\n___")
 
 
 
