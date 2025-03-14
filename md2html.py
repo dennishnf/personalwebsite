@@ -253,7 +253,7 @@ for path, subdirs, files in os.walk(root):
             
 
 
-print("Executed in"+plataform_)
+print("Executed in "+plataform_)
 
 
 
