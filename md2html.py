@@ -167,6 +167,8 @@ def convert(pathh):
 
     replace(path_out, 'https://dennishnf.github.io/website/', 'https://dennishnf.github.io/')
 
+    replace(path_out, '$mywebsite$', 'https://dennishnf.netx')
+
     ##replace(path_out, 'xxxx', 'xxxx')
 
     with open(path_out, "a") as myfile:
