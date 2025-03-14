@@ -253,7 +253,7 @@ for path, subdirs, files in os.walk(root):
             
 
 
-print("\nExecuted in "+deviceName+timeInfoo+"\n___")
+print("\nExecuted in "+deviceName+"\n"+timeInfoo+"\n___")
 
 
 
