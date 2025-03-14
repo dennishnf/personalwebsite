@@ -43,8 +43,8 @@ def convert(pathh):
 
     copyfile(path_in, path_out)
 
+    print("xxxx")
 
-    replace(path_out, '$mywebsite$', 'https://dennishnf.netx')
 
     ##alternative <p> </p>
     replace(path_out, '\n\n0', '\n\n<p align="justify">0')
