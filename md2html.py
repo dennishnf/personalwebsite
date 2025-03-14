@@ -230,7 +230,7 @@ def convert(pathh):
 
 
 deviceName = platform.system()
-timeInfoo=strftime("&nbsp;%Y-%m-%d&nbsp;%H:%M", gmtime())
+timeInfoo=strftime("%Y-%m-%d %H:%M", gmtime())
 
 
 root = sys.argv[1]
