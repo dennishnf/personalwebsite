@@ -13,24 +13,24 @@ I obtained a MSc in Digital Sciences with focus in AI at <a target="_blank" href
     <div class="column left">
         <p>
         <ul>
-        <li>Artificial Intelligence</li>
-        <li>Machine Learning</li>
+        <li>Artificial Intelligence.</li>
+        <li>Machine Learning.</li>
         </ul>
         </p>
     </div>
     <div class="column middle">
     	<p>
         <ul>
-        <li>Computer Vision</li>
-        <li>Natural Language Processing</li>
+        <li>Computer Vision.</li>
+        <li>Natural Language Processing.</li>
         </ul>
         </p>
     </div>
     <div class="column right">
     	<p>
         <ul>
-        <li>Signal Processing</li>
-        <li>Real-Time Systems</li>
+        <li>Signal Processing.</li>
+        <li>Real-Time Systems.</li>
         </ul>
         </p>
     </div>
