@@ -43,7 +43,7 @@ I obtained a MSc in Digital Sciences with focus in AI at <a target="_blank" href
         <ul>
         <li>[<a target="_blank" href="https://scholar.google.com/citations?user=QQTBnmMAAAAJ&hl=en">Google Scholar</a>].</li>
         <li>[<a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57200698818">Scopus</a>].</li>
-        <li>[<a target="_blank" href="https://orcid.org/0000-0001-5574-6967">ORCID</a>]</li>
+        <li>[<a target="_blank" href="https://orcid.org/0000-0001-5574-6967">ORCID</a>].</li>
         </ul>
         </p>
     </div>
@@ -52,7 +52,7 @@ I obtained a MSc in Digital Sciences with focus in AI at <a target="_blank" href
         <ul>
         <li>[<a target="_blank" href="https://www.researchgate.net/profile/Dennis_Nunez_Fernandez">ResearchGate</a>].</li>
         <li>[<a target="_blank" href="https://www.semanticscholar.org/author/Dennis-N%C3%BA%C3%B1ez-Fern%C3%A1ndez/35318979">Semantic Scholar</a>].</li>
-        <li>[<a target="_blank" href="https://www.github.com/dennishnf">GitHub</a>]</li>
+        <li>[<a target="_blank" href="https://www.github.com/dennishnf">GitHub</a>].</li>
         </ul>
         </p>
     </div>
@@ -61,7 +61,7 @@ I obtained a MSc in Digital Sciences with focus in AI at <a target="_blank" href
         <ul>
         <li>[<a target="_blank" href="https://www.linkedin.com/in/dennishnf">LinkedIn</a>].</li>
         <li>[<a target="_blank" href="https://twitter.com/dennishnf">Twitter</a>].</li>
-        <li>[<a target="_blank" href="https://www.youtube.com/channel/UC-js4NaIhqI7NtVWT2JGHrQ">YouTube</a>]</li>
+        <li>[<a target="_blank" href="https://www.youtube.com/channel/UC-js4NaIhqI7NtVWT2JGHrQ">YouTube</a>].</li>
         </ul>
         </p>
     </div>
