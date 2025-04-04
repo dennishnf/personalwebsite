@@ -70,6 +70,7 @@ I obtained a MSc in Digital Sciences with focus in AI at <a target="_blank" href
 <h2>News and updates</h2>
 <p>
 <ul>
+<li>2025 Mar - Invited by Startup UNI @ Univ. Nacional de Ingeniería (Peru) to talk speak my career and AI.</li>
 <li>2025 Mar - <a href="https://www.latinxinai.org/cvpr-2025" target="_blank">Invited to serve as a paper reviewer for the LatinX in CV (LXCV) Workshop at the CVPR 2025</a>.</li>
 <li>2025 Feb - <a href="https://neurips.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the NeurIPS 2025 main conference</a>.</li>
 <li>2024 Dec - <a href="https://icml.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the ICML 2025 main conference</a>.</li>
