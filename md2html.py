@@ -203,7 +203,7 @@ def convert(pathh):
         myfile.write("<a href=\"https://dennishnf.net/README.html\" target=\"_blank\">Built using Python. Powered by Linux.</a> <br/>\n")
         myfile.write("Last updated:")
         myfile.write(timeInfo)
-        myfile.write(" GMT <br/> \n</div> \n")
+        myfile.write(" GMT. <br/> \n</div> \n")
         myfile.write("<div class=\"clearer\">&nbsp;</div> \n")
         myfile.write("</div> \n")
         myfile.write("</div> \n")
