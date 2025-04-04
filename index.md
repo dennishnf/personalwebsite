@@ -1,6 +1,7 @@
 <h2>About me</h2>
 <p>
-<img style="float: right; margin: 15px 0px 5px 20px;" src="/dennishnf-photo-1.jpg" width="140" height="140" /> 
+<img style="float: right; margin: 15px 0px 5px 20px;" src="/dennishnf-photo-1.jpg" width="120" height="120" />
+<!--<img style="float: right; margin: 15px 0px 5px 20px;" src="/dennishnf-photo-1.jpg" width="140" height="140" />  -->
 <p align="justify" style="text-indent:0"> 
 <!-- <img style="float: left; margin: 15px 20px 10px 0px;" src="/dennishnf-photo.jpg" width="142" height="142" /> 
 <p align="justify" style="text-indent:0"> -->
