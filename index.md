@@ -82,7 +82,7 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <li>2024 Oct - <a href="https://www.latinxinai.org/neurips-2024" target="_blank">Selected as a paper reviewer for the LatinX in AI Research Workshop at the NeurIPS 2024</a>.</li>
 <li>2024 Sep - <a href="https://aistats.org/aistats2025/" target="_blank">Glad to be invited to contribute as a regular reviewer for the AISTATS 2025 main conference</a>.</li>
 <li>2024 Aug - <a href="https://iclr.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the ICLR 2025 main conference</a>.</li>
-<li>2024 Jul - Our AI anemia prediction article was accepted by the American Journal of Tropical Medicine.</li>
+<li>2024 Jul - Our AI anemia prediction article was accepted by the American Journal of Tropical Medicine (AJTMH).</li>
 <li>2024 Jul - <a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank">Pleased to be invited to serve as a regular reviewer for the AAAI 2025 main conference</a>.</li>
 <li>2024 Jun - Invited as a speaker at the '2nd International Congress Energy Transition to 2050', org. by FIM UNI.</li>
 <li>2024 Jun - Invited by the IEEE SPS @ Univ. Nacional de Ingeniería (Peru) to talk about DL in medical imaging.</li>
