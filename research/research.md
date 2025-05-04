@@ -8,11 +8,6 @@ Z. Silverstein, A. Alva, K. Breglio, [and others, including <u>D. Núñez</u>]. 
 [<a href="https://doi.org/10.4269/ajtmh.24-0494">The American Journal of Tropical Medicine</a>]  
 </li>
 <li>
-K. Jensen, S. Noazin, L. Bitterfeld, [and others, including <u>D. Núñez</u>]. ‘Autism Detection in Children by Combined Use of Gaze Preference and the M-CHAT-R in a Resource-Scarce Setting’. (2021) <br/>
-[<a href="https://doi.org/10.1007/s10803-021-04878-0">PDF</a>] 
-[<a href="https://doi.org/10.1007/s10803-021-04878-0">Journal of Autism and Developmental Disorders</a>] 
-</li>
-<li>
 A. Agurto-Arteaga, A. Poma-Acevedo, D. Rios-Matos, [and others, including <u>D. Núñez</u>]. ‘Preclinical Assessment of IgY Antibodies Against Recombinant SARS-CoV-2 RBD Protein for Prophylaxis and Post-Infection Treatment of COVID-19’. Frontiers in Immunology. (2022) <br/>
 [<a href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.881604/full">PDF</a>] 
 [<a href="https://www.frontiersin.org/articles/10.3389/fimmu.2022.881604/full">Frontiers in Immunology</a>] 
@@ -21,6 +16,11 @@ A. Agurto-Arteaga, A. Poma-Acevedo, D. Rios-Matos, [and others, including <u>D. 
 M. Fernández Díaz, K. Calderón, A. Rojas-Neyra, [and others, including <u>D. Núñez</u>]. ‘Intranasal vaccination of hamsters with a Newcastle disease virus vector expressing the S1 subunit protects animals against SARS-CoV-2 disease’. Nature Scientific Reports. (2022) <br/>
 [<a href="https://www.nature.com/articles/s41598-022-13560-z">PDF</a>] 
 [<a href="https://www.nature.com/articles/s41598-022-13560-z">Nature Scientific Reports</a>] 
+</li>
+<li>
+K. Jensen, S. Noazin, L. Bitterfeld, [and others, including <u>D. Núñez</u>]. ‘Autism Detection in Children by Combined Use of Gaze Preference and the M-CHAT-R in a Resource-Scarce Setting’. (2021) <br/>
+[<a href="https://doi.org/10.1007/s10803-021-04878-0">PDF</a>] 
+[<a href="https://doi.org/10.1007/s10803-021-04878-0">Journal of Autism and Developmental Disorders</a>] 
 </li>
 </ul>
 <h3>Conference Proceedings</h3>
