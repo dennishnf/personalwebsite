@@ -73,12 +73,12 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <ul>
 <li>2025 May - Invited by 'Latam Radiation' & 'MRI Scanner' to talk about AI in Radiology.</li>
 <li>2025 Mar - Invited by Startup UNI @ Univ. Nacional de Ingeniería (Peru) to talk about my career and AI.</li>
-<li>2025 Mar - <a href="https://www.latinxinai.org/cvpr-2025" target="_blank">Invited to serve as a paper reviewer for the LatinX in CV (LXCV) Workshop at the CVPR 2025</a>.</li>
+<li>2025 Mar - <a href="https://www.latinxinai.org/cvpr-2025" target="_blank">Invited to serve as a paper reviewer for the LatinX in the CV (LXCV) Workshop at the CVPR 2025</a>.</li>
 <li>2025 Feb - <a href="https://neurips.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the NeurIPS 2025 main conference</a>.</li>
 <li>2024 Dec - <a href="https://icml.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the ICML 2025 main conference</a>.</li>
 <li>2024 Nov - Invited by the IEEE SPS @ Univ. Nacional San Marcos (Peru) to speak about ML in Medicine.</li>
 <li>2024 Oct - Glad to be teaching in the postgraduate program on AI applied to Healthcare at UPCH (Peru).</li>
-<li>2024 Oct - Invited by CCPP @ Univ. Nacional de Ingeniería (UNI), Peru, to give a talk on ML in Healthcare.</li>
+<li>2024 Oct - Invited by the CCPP @ Univ. Nacional de Ingeniería (UNI), Peru, to give a talk on ML in Healthcare.</li>
 <li>2024 Oct - <a href="https://www.latinxinai.org/neurips-2024" target="_blank">Selected as a paper reviewer for the LatinX in AI Research Workshop at the NeurIPS 2024</a>.</li>
 <li>2024 Sep - <a href="https://aistats.org/aistats2025/" target="_blank">Glad to be invited to contribute as a regular reviewer for the AISTATS 2025 main conference</a>.</li>
 <li>2024 Aug - <a href="https://iclr.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the ICLR 2025 main conference</a>.</li>
