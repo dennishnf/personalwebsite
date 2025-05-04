@@ -13,7 +13,7 @@ Z. Silverstein, A. Alva, K. Breglio, [and others, including <u>D. Núñez</u>]. 
 [<a href="https://doi..">Journal reference available soon</a>] 
 </li>
 <li>
-[under review] <u>D. Núñez</u>, F. Barrientos-Porras, R. H. Gilman, M. Vittet-Mondoñedo, P. Sheen, M. Zimic. ‘Autism Detection in Children by Combined Use of Gaze Preference and the M-CHAT-R in a Resource-Scarce Setting’. (2021) <br/>
+K. Jensen, S. Noazin, L. Bitterfeld, [and others, including <u>D. Núñez</u>]. ‘Autism Detection in Children by Combined Use of Gaze Preference and the M-CHAT-R in a Resource-Scarce Setting’. (2021) <br/>
 [<a href="https://doi.org/10.1007/s10803-021-04878-0">PDF</a>] 
 [<a href="https://doi.org/10.1007/s10803-021-04878-0">Journal of Autism and Developmental Disorders</a>] 
 </li>
