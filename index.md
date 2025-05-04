@@ -71,7 +71,8 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <h2>News and updates</h2>
 <p>
 <ul>
-<li>2025 May - Invited by 'Latam Radiation' & 'MRI Scanner' to deliver a talk about AI Research in Radiology.</li>
+<li>2024 May - Invited as speaker by the IEEE SPS @ Univ. Nacional de Ingeniería (Peru) to talk about DL and Bio-Signals.</li>
+<li>2025 May - Invited to deliver a talk about AI Research in Radiology, org. by 'Latam Radiation' & 'MRI Scanner'.</li>
 <li>2025 Mar - Invited by Startup UNI @ Univ. Nacional de Ingeniería (Peru) to talk about my career and AI.</li>
 <li>2025 Mar - <a href="https://www.latinxinai.org/cvpr-2025" target="_blank">Invited to serve as a paper reviewer for the LatinX in the CV (LXCV) Workshop at the CVPR 2025</a>.</li>
 <li>2025 Feb - <a href="https://neurips.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the NeurIPS 2025 main conference</a>.</li>
