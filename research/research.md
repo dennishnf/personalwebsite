@@ -14,8 +14,8 @@ Z. Silverstein, A. Alva, K. Breglio, [and others, including <u>D. Núñez</u>]. 
 </li>
 <li>
 [under review] <u>D. Núñez</u>, F. Barrientos-Porras, R. H. Gilman, M. Vittet-Mondoñedo, P. Sheen, M. Zimic. ‘Autism Detection in Children by Combined Use of Gaze Preference and the M-CHAT-R in a Resource-Scarce Setting’. (2021) <br/>
-[<a href="https://10.1007/s10803-021-04878-0">PDF</a>] 
-[<a href="https://10.1007/s10803-021-04878-0">Journal of Autism and Developmental Disorders</a>] 
+[<a href="https://doi.org/10.1007/s10803-021-04878-0">PDF</a>] 
+[<a href="https://doi.org/10.1007/s10803-021-04878-0">Journal of Autism and Developmental Disorders</a>] 
 </li>
 <li>
 A. Agurto-Arteaga, A. Poma-Acevedo, D. Rios-Matos, [and others, including <u>D. Núñez</u>]. ‘Preclinical Assessment of IgY Antibodies Against Recombinant SARS-CoV-2 RBD Protein for Prophylaxis and Post-Infection Treatment of COVID-19’. Frontiers in Immunology. (2022) <br/>
