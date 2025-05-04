@@ -4,8 +4,8 @@
 <ul>
 <li>
 Z. Silverstein, A. Alva, K. Breglio, [and others, including <u>D. Núñez</u>]. ‘Evaluation of the Performance of Portable Hemoglobinometers at Measuring Hemoglobin and Detecting Anemia in a Peri-Urban Pediatric Population in Lima, Peru’. American Journal of Tropical Medicine. (2024) <br/>
-[<a href="https://doi..">PDF available soon</a>] 
-[<a href="https://doi..">Journal reference available soon</a>]  
+[<a href="https://doi.org/10.4269/ajtmh.24-0494">PDF available soon</a>] 
+[<a href="https://doi.org/10.4269/ajtmh.24-0494">Journal reference available soon</a>]  
 </li>
 <li>
 [under review] <u>D. Núñez</u>, J. Coronel. G. Jimenez-Avalos, X. Chunga, M. Salguedo, L. De la Cruz, R. H. Gilman, P. Sheen, M. Zimic. ‘U-Net and segmentation techniques to analyze microscopic images of MODS cultures captured with a lens-free inverted microscope to facilitate the diagnostics of tuberculosis’ (2022) <br/>
