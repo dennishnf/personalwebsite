@@ -98,7 +98,7 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <li>2024 Feb - Invited by the Instit. for Health Technology IETSI (Peru) to talk on health tech. in public health.</li>
 <li>2024 Jan - Invited by the IEEE SPS @ Univ. Nacional San Marcos (Peru) to talk about AI in medical imaging.</li>
 <li>2023 Dec - <a href="https://icml.cc/Conferences/2024" target="_blank">Pleased to be invited to serve as a regular reviewer for the ICML 2024 main conference</a>.</li>
-<li>2023 Dec - Invited by the Advanced Program in Data Science (BREIT) in Peru for a talk on research in AI.</li>
+<li>2023 Dec - Invited by the Advanced Program in Data Science (BREIT) in Peru for a give a talk on research in AI.</li>
 <li>2023 Dec - Invited by Universidad Nacional del Santa (Peru) to talk about Deep Learning tools/applications.</li>
 <li>2023 Oct - <a href="https://iccv2023.thecvf.com/" target="_blank">Delighted to attend in person and volunteer at ICCV 2023, top conference in Computer Vision</a>.</li>
 <li>2023 Sep - <a href="https://iclr.cc/Conferences/2024/Reviewers" target="_blank">Thrilled to have been selected as a regular paper reviewer for the ICLR 2024 main conference</a>.</li>
