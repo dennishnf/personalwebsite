@@ -71,6 +71,7 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <h2>News and updates</h2>
 <p>
 <ul>
+<li>2025 Jun - Invited as a speaker at the '3rd International Congress on Emerging Technologies and AI in Modern Engineering', org. by FIM UNI.</li>
 <li>2025 May - Invited by IEEE SPS at UNMSM (Peru) to speak on Deep Learning applied to Medical Imaging.</li>
 <li>2025 May - Invited as a speaker by the IEEE SPS UNI (Peru) to give a talk on Deep Learning and Bio-Signals.</li>
 <li>2025 May - Invited to deliver a talk about AI Research in Radiology, org. by 'Latam Radiation' & 'MRI Scanner'.</li>
