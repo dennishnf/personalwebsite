@@ -71,8 +71,8 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <h2>News and updates</h2>
 <p>
 <ul>
-<li>2024 Aug - <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank">Pleased to be invited to serve as a regular reviewer for the AAAI 2026 main conference</a>.</li>
-<li>2025 Jul - Pleased to have contributed as a reviewer for the PhawAI 2025 program (Peru and Ecuador).</li>
+<li>2025 Aug - <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank">Pleased to be invited to serve as a regular reviewer for the AAAI 2026 main conference</a>.</li>
+<li>2025 Jul - Glad to have contributed as a reviewer for the PhawAI 2025 program (Peru and Ecuador).</li>
 <li>2025 Jun - Speaker at the '3rd Int. Congress on Emerging Tech & AI in Modern Engineering', org. by FIM UNI.</li>
 <li>2025 May - Invited by IEEE SPS at UNMSM (Peru) to speak on Deep Learning applied to Medical Imaging.</li>
 <li>2025 May - Invited as a speaker by the IEEE SPS UNI (Peru) to give a talk on Deep Learning and Bio-Signals.</li>
