@@ -78,7 +78,7 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <li>2025 Jun - Speaker at the '3rd Int. Congress on Emerging Tech & AI in Modern Engineering', org. by FIM UNI.</li>
 <li>2025 May - Invited by IEEE SPS at UNMSM (Peru) to speak on Deep Learning applied to Medical Imaging.</li>
 <li>2025 May - Invited as a speaker by the IEEE SPS UNI (Peru) to give a talk on Deep Learning and Bio-Signals.</li>
-<li>2025 May - <a href="https://www.m2lschool.org/" target="_blank">Pleased to have been accepted to the Mediterranean Machine Learning Summer School (M2L) 2025 in Croatia</a>.</li>
+<li>2025 May - <a href="https://www.m2lschool.org/" target="_blank">Accepted to the Mediterranean Machine Learning Summer School (M2L) 2025 in Croatia</a>.</li>
 <li>2025 May - Invited to deliver a talk about AI Research in Radiology, org. by 'Latam Radiation' & 'MRI Scanner'.</li>
 <li>2025 Mar - Invited by 'Startup UNI' at Universidad Nacional de Ingeniería (Peru) to speak about my career and AI.</li>
 <li>2025 Mar - <a href="https://www.latinxinai.org/cvpr-2025" target="_blank">Invited to serve as a paper reviewer for the LatinX in the CV (LXCV) Workshop at the CVPR 2025</a>.</li>
