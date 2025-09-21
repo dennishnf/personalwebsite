@@ -1,7 +1,7 @@
 
 ## README ##
 
-My personal Website, Dennis Núñez-Fernández. At the moment, GitHub is used as host server.
+My personal Website, Dennis Núñez. At the moment, GitHub is used as host server.
 
 The creation of this website was created usng the principles:
 
