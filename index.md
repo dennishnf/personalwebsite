@@ -72,7 +72,7 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <p>
 <ul>
 <li>2025 Sep - <a href="https://iclr.cc/Conferences/2026" target="_blank">Pleased to be invited to serve as a regular reviewer for the main track of ICLR 2026 conference</a>.</li>    
-<li>2025 Sep - <a href="https://www.m2lschool.org/" target="_blank">Pleased to attend the Mediterranean Machine Learning Summer School (M2L) 2025 in Croatia</a>.</li>
+<li>2025 Sep - <a href="https://www.m2lschool.org/" target="_blank">Delighted to attend the Mediterranean Machine Learning Summer School (M2L) 2025 in Croatia</a>.</li>
 <li>2025 Aug - <a href="https://aistats.org/aistats2026/" target="_blank">Glad to be invited to contribute as a regular reviewer for the main track of AISTATS 2026 conference</a>.</li>
 <li>2025 Aug - <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank">Pleased to be invited to serve as a regular reviewer for the main track of AAAI 2026 conference</a>.</li>
 <li>2025 Jul - Glad to have contributed as a candidate reviewer for the PhawAI 2025 program (Peru-Ecuador).</li>
