@@ -199,7 +199,7 @@ def convert(pathh):
               output.write(data)
     
     with open(path_out, "a", encoding='utf-8') as myfile:
-        timeInfo=strftime("&nbsp;%Y-%m-%d&nbsp;%H:%M", gmtime())
+        timeInfo=strftime("&nbsp;%d-%m-%Y&nbsp;%H:%M", gmtime())
         myfile.write("<a href=\"https://dennishnf.net/README.html\" target=\"_blank\">Built using Python. Powered by Linux.</a> <br/>\n")
         myfile.write("Last updated:")
         myfile.write(timeInfo)
