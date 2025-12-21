@@ -88,7 +88,7 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <li>2025 Feb - <a href="https://neurips.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the main track of NeurIPS 2025 conference</a>.</li>
 <li>2024 Dec - <a href="https://icml.cc/Conferences/2025" target="_blank">Pleased to be invited to serve as a regular reviewer for the main track of ICML 2025 conference</a>.</li>
 <li>2024 Nov - Invited by IEEE SPS Student Chapter at UNMSM (Peru) to speak on Machine Learning in Medicine.</li>
-<li>2024 Oct - Glad to be teaching in the postgraduate program on AI applied to Healthcare at UPCH (Peru).</li>
+<!-- <li>2024 Oct - Glad to be teaching in the postgraduate program on AI applied to Healthcare at UPCH (Peru).</li> -->
 <li>2024 Oct - Invited by the CCPP @ Univ. Nacional de Ingeniería (UNI), Peru, to give a talk on ML in Healthcare.</li>
 <li>2024 Oct - <a href="https://www.latinxinai.org/neurips-2024" target="_blank">Selected as a paper reviewer for the LatinX in AI Research Workshop at the NeurIPS 2024</a>.</li>
 <li>2024 Sep - <a href="https://aistats.org/aistats2025/" target="_blank">Glad to be invited to contribute as a regular reviewer for the main track of AISTATS 2025 conference</a>.</li>
