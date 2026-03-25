@@ -71,6 +71,7 @@ I obtained my M.Sc. degree in Digital Sciences with focus in AI at the <a target
 <h2>News and updates</h2>
 <p>
 <ul>
+<li>2026 Mar - <a href="https://neurips.cc/Conferences/2026" target="_blank">Pleased to be invited to serve as a regular reviewer for the main track of NeurIPS 2026 conference</a>.</li>
 <li>2025 Nov - <a href="https://2026.midl.io/" target="_blank">Invited to contribute as a regular reviewer for the main track of the MIDL 2026 conference</a>.</li>
 <li>2025 Sep - <a href="https://iclr.cc/Conferences/2026" target="_blank">Pleased to be invited to serve as a regular reviewer for the main track of ICLR 2026 conference</a>.</li>    
 <li>2025 Sep - <a href="https://www.m2lschool.org/" target="_blank">Delighted to attend the Mediterranean Machine Learning Summer School (M2L) 2025 in Croatia</a>.</li>
